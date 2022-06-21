@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ivonh
-- 👀 I’m interested in Java (at this stage)
-- 🌱 I’m currently learning Java @ TafeQLD
-- 💞️ I’m looking to collaborate on debug errors
+- 👀 I’m Full Stack Development
+- 🌱 Im Proficient in Java, C#, Python, JS, react, Reqact-Native and Djang. Plus mroe
+- 💞️ I’m looking to collaborate on joint ventures
 - 📫 How to reach Micah#3845 (discord)
 
 <!---
