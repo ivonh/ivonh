@@ -1,4 +1,5 @@
 - 👋 Hi, I'm Ivon 
 - 👀 Full Stack Development is my passion
-- 🌱 Im Proficient in Java, C#, Python, JS, React, Node.js, JS and Typescript, React-Native and Django. PHP and SQL
-- 💞️ I’m looking to collaborate on n8n.io opportunities in cloud technologies and physics and environmental engineering. 
+- 🌱 Im Proficient in Java, C#, Python, JS, React, Node.js, JS and Typescript, React-Native and Django. PHP and SQL, claude.ai, Open.Ai, gemini.Ai, 
+- 💞️ I’m looking to collaborate on n8n.io opportunities in cloud technologies and physics and environmental engineering.
+- 
